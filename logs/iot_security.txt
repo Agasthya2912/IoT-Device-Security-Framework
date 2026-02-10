@@ -1,0 +1,12 @@
+[2026-02-11 10:12:01] INFO  Device ID: DEV_101 | Request received
+[2026-02-11 10:12:01] INFO  Encryption applied (AES-256)
+[2026-02-11 10:12:01] INFO  Data transmitted securely
+[2026-02-11 10:12:01] INFO  Request completed successfully
+
+[2026-02-11 10:12:08] INFO  Device ID: DEV_101 | Request received
+[2026-02-11 10:12:08] WARNING Multiple rapid requests detected
+[2026-02-11 10:12:08] ALERT DoS protection triggered for device DEV_101
+
+[2026-02-11 10:12:30] INFO  Device ID: DEV_102 | Request received
+[2026-02-11 10:12:30] INFO  Encryption applied (AES-256)
+[2026-02-11 10:12:30] INFO  Request completed successfully
